@@ -63,7 +63,7 @@
 </td>
 </tr>
 	<br><tr>
-	<td><a href="homepage.html"><input type="button" value="Back"></a></td>
+	<td><a href="homepage.php"><input type="button" value="Back"></a></td>
 	<td><input type="submit" value="Confirm"></td>
 	<td><a href="logoutcode.php"><input type="button" value="logout"></a></td>
 	</tr></p>
